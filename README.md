@@ -19,3 +19,8 @@
 #### Assign PACE stages to the requested tasks
 #### Organize tasks into milestones
 #### Create a project proposal for the executive team’s approval
+
+### 🟣 Tableau Representation:
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/ca231a5b-ae63-4257-883c-0a6b4228b4b9" />
+
+
